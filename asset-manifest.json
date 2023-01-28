@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Bookings/static/css/main.69c74cae.css",
-    "main.js": "/Bookings/static/js/main.6027cd09.js",
+    "main.js": "/Bookings/static/js/main.c76010bd.js",
     "static/js/787.0fa891cf.chunk.js": "/Bookings/static/js/787.0fa891cf.chunk.js",
     "static/media/Effra_Rg.ttf": "/Bookings/static/media/Effra_Rg.a61bd29d8e438691fa9c.ttf",
     "static/media/logo.svg": "/Bookings/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Bookings/index.html",
     "main.69c74cae.css.map": "/Bookings/static/css/main.69c74cae.css.map",
-    "main.6027cd09.js.map": "/Bookings/static/js/main.6027cd09.js.map",
+    "main.c76010bd.js.map": "/Bookings/static/js/main.c76010bd.js.map",
     "787.0fa891cf.chunk.js.map": "/Bookings/static/js/787.0fa891cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c74cae.css",
-    "static/js/main.6027cd09.js"
+    "static/js/main.c76010bd.js"
   ]
 }
